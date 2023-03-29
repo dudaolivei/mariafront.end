@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Pratica Imagem 27-03</title>
+        <meta charset="UTF-8">
+
+        <style>
+            body{
+                background-image: linear-gradient(to bottom, blue, red);
+                padding: 20px 20px 50px 50px;
+                margin:auto;
+             
+            }
+
+           
+           
+            h1, h2{
+
+                color:#F059A4;
+                font-size: 250%;
+                text-align: center;
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                border-bottom: 4px solid yellowgreen;
+                               
+            }
+
+            h2{
+                color:#00CED1;
+                font-size: 30px;
+                font-family:Arial, Helvetica, sans-serif
+
+            }
+
+            p{
+                color:#FFDEAD;
+                text-align: justify;
+                font-size: 30px;
+                font-family:initial;
+            }
+
+
+            img{
+                width:300px ;
+                height:250px;
+                border: 4px solid #7B68EE;
+
+                }
+
+            table{
+                background-color: #399286;
+                border: 5px salmon;
+                width: 300px;
+                height: 150px;
+                text-align: center;
+
+
+            }
+
+
+
+        </style>
+    </head>
+
+    <body>
+        <h1>O que é inteligência artificial?</h1>
+       
+        <img src="intelig-artificial.jfif" alt="Inteligência Artificial" width="300px" height="250px" />
+       
+       
+       
+        <p>
+            A <strong>inteligência artificial </strong>é uma constelação de muitas tecnologias diferentes trabalhando juntas para permitir que as <strong>máquinas detectem, compreendam, ajam e aprendam com níveis de inteligência semelhantes aos dos humanos</strong>. Talvez seja por isso que parece que a <u>definição de inteligência artificial que as pessoas dão é diferente:</u><em> A Inteligência Artificial não é só uma única coisa.</em>
+        </p>
+        <p>
+            Tecnologias como fazem parte do cenário de AI. Cada um está evoluindo ao longo de seu próprio caminho e, quando aplicado em combinação com <strong>dados, análises e automação,</strong> pode ajudar as empresas a atingir seus objetivos, seja melhorando o atendimento ao cliente ou otimizando a cadeia de suprimentos.
+        </p>
+        <h2> Inteligência Artificial geral (ou "forte") </h2>
+        <img src="IA.jpg" alt="Inteligência Artificial Forte" width="300px" height="250px" />
+       
+        <p>
+            <strong>Inteligência Artificial Geral (AGI) ou IA forte (strong):</strong> também conhecido como IA nível humano (human level AI), é capaz de fazer operações semelhantes aos seres humanos, como aprender <strong>(machine learning, deep learning), entender e agir a determinados estímulos.</strong>
+        </p>
+
+        <h2> Tabela</h2>
+        <table border="2">
+            <tr>
+                <td> Disciplina do Curso Técnico </td >
+                <td> Nota 1 </td >
+                <td> Nota 2 </td >
+            </tr>
+            <tr>
+                <td > Lógica </td >
+                <td > 5,5 </td >
+                <td > 7,8 </td >
+            </tr>
+            <tr>
+                <td > Matemática </td >
+                <td > 8,7 </td >
+                <td > 9,0 </td >
+            </tr >
+        </table >
+
+
+    </body>
+</html>
